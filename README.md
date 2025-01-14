@@ -27,10 +27,6 @@ Pour exécuter ce jeu, vous aurez besoin de :
    python main.py
    ```
 
-## Aperçu
-![Aperçu du jeu](path/to/screenshot.png)
-*(Ajoutez un lien vers une capture d'écran ou une vidéo du jeu.)*
-
 ## Contribution
 Les contributions sont les bienvenues ! Si vous souhaitez ajouter des fonctionnalités, corriger des bugs ou améliorer le design, n'hésitez pas à soumettre une pull request.
 
